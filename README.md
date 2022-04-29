@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, My name is Bruno. 👋
+I have a degree in IT and I am Front-End Jr. Dev. training. 
 
-<!--
-**bubru/bubru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've always loved design and technology, so I decided to combine the two and chose the front-end stack to study. 
 
-Here are some ideas to get you started:
+I'm currently living in Guarulhos - São Paulo. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning ...Javascript.
+- 👯 I’m looking to collaborate on ... Front-End.
+- 📫 How to reach me: ... [LinkedIin](https://www.linkedin.com/in/bruno-henrique-santos-gomes/)
+- 😄 Pronouns: ... He/Him.
+- ⚡ Fun fact: ... I love to dance and play video games. I'm a huge fan of the Sonic the Hedgehog franchise and sometimes I colaborate in the Fandom page of the series.
