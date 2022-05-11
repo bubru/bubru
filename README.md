@@ -1,5 +1,5 @@
 ### Hi there, My name is Bruno. 👋
-I have a degree in IT and I am Front-End Jr. Dev. training. 
+I have a degree in IT and I am a Front-End Jr. Dev. student. 
 
 I've always loved design and technology, so I decided to combine the two and chose the front-end stack to study. 
 
