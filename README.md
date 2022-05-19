@@ -1,9 +1,7 @@
 ### Hi there, My name is Bruno. 👋
-I have a degree in IT and I am a Front-End Jr. Dev. student. 
+I am a brazilian Front-End Jr. Dev. student, currently living in Guarulhos - São Paulo. . 
 
 I've always loved design and technology, so I decided to combine the two and chose the front-end stack to study. 
-
-I'm currently living in Guarulhos - São Paulo. 
 
 
 - 🌱 I’m currently learning ...Javascript.
