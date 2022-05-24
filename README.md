@@ -8,5 +8,4 @@ I've always loved design and technology, so I decided to combine the two and cho
 - 👯 I’m looking to collaborate on ... Front-End.
 - 📫 How to reach me: ... [LinkedIin](https://www.linkedin.com/in/bruno-henrique-santos-gomes/)
 - 😄 Pronouns: ... He/Him.
-- 🎮 I’m currently playing ...Elden Ring.
 - ⚡ Fun fact: ... I love to dance and play video games. I'm a huge fan of the Sonic the Hedgehog franchise and sometimes I colaborate in the Fandom page of the series.
